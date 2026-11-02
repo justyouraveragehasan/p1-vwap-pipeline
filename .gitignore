@@ -7,5 +7,6 @@ xsim.dir/
 *.str
 .Xil/
 vivado_prj/
-scripts/
 clockInfo.txt
+scripts/*
+!scripts/write_project.tcl
