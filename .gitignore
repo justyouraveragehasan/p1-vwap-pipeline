@@ -6,3 +6,6 @@ xsim.dir/
 *.wdb
 *.str
 .Xil/
+vivado_prj/
+scripts/create_project.tcl
+scripts/open.sh
