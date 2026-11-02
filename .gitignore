@@ -8,3 +8,4 @@ xsim.dir/
 .Xil/
 vivado_prj/
 scripts/
+clockInfo.txt
